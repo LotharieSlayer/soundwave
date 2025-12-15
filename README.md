@@ -11,5 +11,9 @@ Add a lot of webradios to your [Navidrome server](https://github.com/navidrome/n
 8. Up your Navidrome container
 9. Enjoy!
 
+## Docker Volume
+Add a volume like this if you want to automate the process by letting access to Navidrome data folder.
+`/navidrome_data:/data`
+
 ## Webradios lists
 Go check out [junguler/m3u-radio-music-playlists](https://github.com/junguler/m3u-radio-music-playlists) !
